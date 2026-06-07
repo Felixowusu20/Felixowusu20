@@ -1,11 +1,60 @@
- - 👋 Hi, I’m @Felixowusu20
-- 👀 I’m interested in frontend and backend development, data science, artificial intelligence, machine learning, and computational chemistry in material engineering.
-- 🌱 I’m currently learning more about nano clusters, specifically the adsorption of H2O molecules onto Fe clusters, and working on quiz game development using Godot.
-- 💞️ I’m looking to collaborate on projects involving AI, ML, computational chemistry simulations, and innovative game development.
-- 📫 How to reach me: felixo6996@gmail.com , whatsapp : +2442975483 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy exploring the intersection of technology and chemistry to develop novel materials and solutions.
+# 👨‍💻 Felix Owusu
 
+```typescript
+const felix = {
+  role: "Full-Stack Developer",
+  company: "LetsCode",
+  projects: ["VentraPOS", "Membership Systems", "Enterprise Applications"],
 
+  expertise: [
+    "ASP.NET Core",
+    "Next.js",
+    "React",
+    "TypeScript",
+    "SQL Server",
+    "REST APIs"
+  ],
 
- 
+  interests: [
+    "Software Architecture",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Computational Chemistry"
+  ],
+
+  currentlyBuilding: [
+    "VentraPOS",
+    "Business Management Solutions",
+    "AI-Powered Applications"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "Cloud Architecture",
+    "Advanced AI"
+  ],
+
+  motto: "Build solutions. Solve problems. Keep learning."
+};
+```
+
+```bash
+$ whoami
+
+Full-Stack Developer
+Software Architect Enthusiast
+Founder @ LetsCode
+Builder of VentraPOS
+Computational Chemistry Researcher
+```
+
+```yaml
+contact:
+  email: "felixo6996@gmail.com"
+
+open_to:
+  - Open Source Projects
+  - Startup Collaborations
+  - AI & ML Projects
+  - Software Development Opportunities
+```
